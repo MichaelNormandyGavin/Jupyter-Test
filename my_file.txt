@@ -1,0 +1,7 @@
+Hello, this is a test project for git
+
+I'm adding another line here to see what happens!
+
+Testing the diff function is very helpful.
+
+Now I'm adding lines through the workbook so heck yeah!!
